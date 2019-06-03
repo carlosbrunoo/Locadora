@@ -52,3 +52,4 @@ INSERT INTO CARRO VALUES(NULL,'VOLKSWAGEN','AMAROCK','VERDE','4','D','2019',1);
 
 # OPS:
 # Não consegui fazer a compra dos veiculos, mas o CRUD padrão está funcional
+# Não consegui organizar tudo no github
